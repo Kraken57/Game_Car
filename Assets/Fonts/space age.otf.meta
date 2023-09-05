@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ff036a9ff6cac60429f5887f0ae71ccc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Space Age
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7e29f3a0680076e479cf37d92120c228, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

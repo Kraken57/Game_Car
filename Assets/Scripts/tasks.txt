@@ -1,0 +1,4 @@
+1. health bar increase
+2. End screen page
+3. Starting screen page
+4. Sound ( Optional )
