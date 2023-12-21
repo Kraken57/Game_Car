@@ -1,7 +1,7 @@
 # Game_Car
 # Unity 3D Car Game 🚗
 
-![Gameplay](gameplay-screenshot.png)
+![Gameplay](gameplay.png)
 
 Welcome to our thrilling Unity 3D Car Game! 🏁 Dodge obstacles, collect health points, and race through a dynamically changing environment. Will you emerge as the ultimate champion of the road?
 
@@ -29,7 +29,7 @@ Clone, fork, or download the game, and let the race begin! Feel free to share yo
 
 ## 🛠 Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/car-game.git`
+1. Clone the repository: `git clone https://github.com/your-username/Game_Car.git`
 2. Open the project in Unity.
 3. Hit the play button and start your virtual road trip!
 
